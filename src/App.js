@@ -1,23 +1,24 @@
-import logo from './logo.svg';
+import { useState } from 'react';
 import './App.css';
+import Effect from './Components/effect';
+import State from './Components/State';
+import Contador from './Ejercicio/Contador';
+import Stop from './Ejercicio/Stop';
+import AppRoutes from './Routes/AppRoutes';
 
 function App() {
+  const [count, setCount] = useState(false)
+  const [counter, setCounter] = useState(0)
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <State />
+      <AppRoutes />
+      <Effect />
+      <button onClick={() => setCount(!count)}>{!count ? 'Contar' : 'Parar'}</button>
+      {count ? <Contador count={counter} setCount={setCounter}/> : <Stop />}
     </div>
   );
 }
