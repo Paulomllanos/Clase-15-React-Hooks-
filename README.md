@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+REACT HOOKS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1) QUE ES UN HOOK?
 
-## Available Scripts
+2) USESTATE, USEEFFECT
 
-In the project directory, you can run:
+3) Como se usa USESTATE: variables de estados, cuando cambia una variable de estado el componente se renderiza y se ejecuta el UseEffect deneuvo
 
-### `npm start`
+1.1) Sintaxis
+1.2) Modo de uso
+1.3) Ejemplos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4) Como se usa UseEffect: Ciclo de vida // efecto secundario(peticiones a la api, cambio de titulo de la pagina(document.title))
+*Se ejecuta use effect en este orden -> contenido del componente --> return ---> UseEffect(se realiza despues del renderizado)
+*Funciona como el montaje y desmontaje de un componente
+1.1) Sintaxis
+1.2) Modo de uso
+1.3) Ejemplos
+1.4) Dependencias
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5) React POST con AXIOS
 
-### `npm test`
+5.1) npm i axios, npm i react-boostrap(Explicar que existe MUI), npm i swetAlert2, npm i react-router-dom
+5.2) Agregar RUTA register y no olvidar de meter en index.js el browserRoute y el bootstrap
+5.3) Crear componente Register o Form, crear carpeta asset colocar una imagen y enseñarles paar que sirve
+5.4) Hacer Variable de estados.
+5.5) Crear Handle para input y button
+5.6) añadir css en app.css
+5.7) añadir swetAlert2
+5.8) Mostrar tanto error como ok
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
