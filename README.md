@@ -32,5 +32,6 @@ REACT HOOKS
 
 
 6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
+![](https://www.shutterstock.com/image-photo/hand-touching-screen-icon-throw-260nw-696395281.jpg)
 
 
