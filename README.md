@@ -1,7 +1,7 @@
 # REACT HOOKS
 
 1) **QUE ES UN HOOK?**
-
+:EMOJICODE:
 2) USESTATE, USEEFFECT
 
 3) Como se usa USESTATE: **variables de estados**, cuando cambia una variable de estado el componente se renderiza y se ejecuta el UseEffect deneuvo
