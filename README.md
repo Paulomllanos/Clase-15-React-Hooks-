@@ -1,7 +1,5 @@
 # REACT HOOKS
 
-The background color should be `#89ff34` for light mode and `#0d1117` for dark mode.
-
 1) **QUE ES UN HOOK?**
 
 2) USESTATE, USEEFFECT
@@ -34,6 +32,6 @@ The background color should be `#89ff34` for light mode and `#0d1117` for dark m
 
 
 6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
-![](https://www.shutterstock.com/image-photo/hand-touching-screen-icon-throw-260nw-696395281.jpg)
 
+![](https://tsh.io/wp-content/uploads/2020/10/react-hooks-best-practices-lead_.jpg)
 
