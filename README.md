@@ -1,5 +1,7 @@
 # REACT HOOKS
 
+The background color should be `#89ff34` for light mode and `#0d1117` for dark mode.
+
 1) **QUE ES UN HOOK?**
 
 2) USESTATE, USEEFFECT
