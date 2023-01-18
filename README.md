@@ -26,9 +26,9 @@
 4. Hacer Variable de estados.
 5. Crear Handle para input y button
 6. añadir css en app.css!
-- Continuacion:
 7. añadir swetAlert2
 8. Mostrar tanto error como ok
+ - jajaja
 
 
 6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
