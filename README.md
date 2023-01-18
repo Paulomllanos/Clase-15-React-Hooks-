@@ -4,7 +4,7 @@
 
 2) USESTATE, USEEFFECT
 
-3) Como se usa USESTATE: variables de estados, cuando cambia una variable de estado el componente se renderiza y se ejecuta el UseEffect deneuvo
+3) Como se usa USESTATE: **variables de estados**, cuando cambia una variable de estado el componente se renderiza y se ejecuta el UseEffect deneuvo
 
 1.1) Sintaxis
 1.2) Modo de uso
