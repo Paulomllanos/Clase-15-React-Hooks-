@@ -1,10 +1,14 @@
 # REACT HOOKS
 
 1) **QUE ES UN HOOK?**
-:EMOJICODE:
+
+
 2) USESTATE, USEEFFECT
 
 3) Como se usa USESTATE: **variables de estados**, cuando cambia una variable de estado el componente se renderiza y se ejecuta el UseEffect deneuvo
+
+
+
 
 1.1) Sintaxis
 1.2) Modo de uso
@@ -29,6 +33,7 @@
 7. añadir swetAlert2
 8. Mostrar tanto error como ok
    - jajaja
+   - :![zorroconlentes](https://user-images.githubusercontent.com/103681283/213319462-a5558d28-2f91-40e0-a857-03c5cc465f1e.jpg)
 
 
 6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
