@@ -20,15 +20,15 @@
 
 5) React POST con AXIOS
 
-5.1) npm i axios, npm i react-boostrap(Explicar que existe MUI), npm i swetAlert2, npm i react-router-dom
-5.2) Agregar RUTA register y no olvidar de meter en index.js el browserRoute y el bootstrap
-5.3) Crear componente Register o Form, crear carpeta asset colocar una imagen y enseñarles paar que sirve
-5.4) Hacer Variable de estados.
-5.5) Crear Handle para input y button
-5.6) añadir css en app.css!
-
-5.7) añadir swetAlert2
-5.8) Mostrar tanto error como ok
+1. npm i axios, npm i react-boostrap(Explicar que existe MUI), npm i swetAlert2, npm i react-router-dom
+2. Agregar RUTA register y no olvidar de meter en index.js el browserRoute y el bootstrap
+3. Crear componente Register o Form, crear carpeta asset colocar una imagen y enseñarles paar que sirve
+4. Hacer Variable de estados.
+5. Crear Handle para input y button
+6. añadir css en app.css!
+- Continuacion:
+7. añadir swetAlert2
+8. Mostrar tanto error como ok
 
 
 6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
