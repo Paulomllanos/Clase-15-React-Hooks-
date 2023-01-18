@@ -28,7 +28,7 @@
 6. añadir css en app.css!
 7. añadir swetAlert2
 8. Mostrar tanto error como ok
- - jajaja
+   - jajaja
 
 
 6) Ellos: integrar en navbar clase react router lo aprendido recien tanto post, como get
